@@ -22,7 +22,7 @@ spec:
 
       containers:
         - name: yelp-camp-container
-          image: myrepo:latestshaikmustafa/finalcamp:v1
+          image: myrepo:latest
           ports:
             - containerPort: 3000
 
