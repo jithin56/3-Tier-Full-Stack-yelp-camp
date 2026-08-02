@@ -22,7 +22,7 @@ spec:
 
       containers:
         - name: yelp-camp-container
-          image: myrepo:latest
+          image: 150964201249.dkr.ecr.us-east-1.amazonaws.com/myrepo:latest
           ports:
             - containerPort: 3000
 
