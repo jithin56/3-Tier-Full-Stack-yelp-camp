@@ -31,4 +31,4 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Deploy to production
-        run: npm run build 
+        run: echo "Deploying to production..." # Replace with your deployment command
